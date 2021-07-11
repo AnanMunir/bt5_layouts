@@ -1,0 +1,22 @@
+.header, .hero, .body, .bar,.footer{
+	background-color: teal;
+	margin-bottom: 10px;
+}
+h1{
+	text-align: center;
+	color: hotpink;
+}
+.box{
+	margin: 10px 0;
+	min-height: 80px;
+	background-color: red;
+	color: white;
+	font-size: 20px;
+}
+.red{
+	background-color: lime;
+}
+.five{
+	background-color: hotpink;
+}
+.container_2
